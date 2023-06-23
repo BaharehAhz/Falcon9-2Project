@@ -10,4 +10,5 @@ Reference: https://www.spacex.com/
 
 When a rocket is launched, its first stage returns to Earth, but its second stage goes to the space station. SpaceX has claimed that it can deliver the Falcon 9 rocket to the International Space Station at a lower price than other competitors. The lower price is because this company can reuse the first stage. 
 Let's predict whether the first stage will land successfully, and SpaceX will be able to use this stage again or not.  I use the necessary data from the SpaceX company's API, which has made the data publicly available to everyone.
+
 In the Falcon 9-2 project, I first standardized the data. Then I modeled and evaluated four machine-learning algorithms including Logistic Regression, Support Vector Machine, Decision Trees, and K-Nearest Neighbors. In this version, I added visual aspects to enable better analysis of the results and displayed the results in the form of a confusion matrix and plots.
